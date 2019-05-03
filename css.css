@@ -28,7 +28,7 @@
     font-size: 2vw;
 }
 .menu>li:hover>.podmenu{
-    top:50px;
+    top:auto;
     opacity: 1;
     left: 0;
 }

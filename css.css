@@ -6,7 +6,7 @@
     transition: 1s;
     padding-left: 2%;
     padding-right: 2%;
-    font-size: 30px;
+    font-size: 2vw;
 }
 .menu li{
     list-style: none;
@@ -25,7 +25,7 @@
 .podmenu>li{
     display: block;
     width:100%;
-    font-size: 30px;
+    font-size: 2vw;
 }
 .menu>li:hover>.podmenu{
     top:50px;
@@ -51,7 +51,7 @@
     cursor: pointer;
 }
 .mpic{
-    font-size: 40px;
+    font-size: 4vw;
     display: flex;
     justify-content: center;
     background-size: 100vw 300px;
@@ -60,7 +60,7 @@
     background-image: url("gus.jpg");
 }
 main h2{
-    font-size: 30px;
+    font-size: 4vw;
     text-align: center;
 }
 main img{
@@ -71,7 +71,7 @@ main img{
 main h3{
     text-align: center;
     margin: 20px;
-    font-size: 20px;
+    font-size: 3vw;
 }
 header{
     border: 1px solid;
@@ -79,7 +79,7 @@ header{
 main section{
     padding: 20px;
     background-color: white;
-    font-size: 20px;
+    font-size: 2vw;
     border: 1px solid;
     min-height: 500px;
 }
